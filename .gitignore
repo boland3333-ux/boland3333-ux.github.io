@@ -1,1 +1,6 @@
 .DS_Store
+
+# Local secrets. Commit a .env.example with empty values instead.
+.env
+.env.*
+!.env.example
